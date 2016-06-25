@@ -37,7 +37,3 @@ class Solution(object):
                 del can_dict[k]
 
         return can_dict.keys()
-
-
-if __name__ == "__main__":
-    Solution().majorityElement()
