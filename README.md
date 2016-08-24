@@ -3,7 +3,7 @@ LeetCode
 
 # 数据结构和算法
 
-1. 位运算
+## 位运算
 
 题号|          标题                   |难度    | 代码        |  提示    |
 ----|---------------------------------|--------|-------------|----------|
@@ -19,7 +19,7 @@ LeetCode
 342 |[Power of Four](https://leetcode.com/problems/power-of-four/)   |Easy    |[解1](./problems/342.py) |          |
 371 |[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)   |Easy    |[解1](./problems/371.py)   |          |
 
-2. 数组
+## 数组
 
 题号|          标题                          |难度    | 代码        |  提示    |
 ----|--------------------------------------|--------|-------------|----------|
@@ -48,17 +48,17 @@ LeetCode
 240 |[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)                 |Medium  |[解1](./problems/240.py) [解2](./problems/240-1.py)      |           |
 334 |[Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)        |Medium  |[解1](./problems/334.py) [解2](./problems/334-1.py) [解3](./problems/334-2.py)   |           |
 
-3. 字符串
-4. 链表
-5. 栈
-6. 队列
-7. 堆
-8. 树
-9. 哈稀
-10. 排序
-11. 双指针
-12. 迭代
-13. 二分查找
-14. 二分树
+## 字符串
+## 链表
+## 栈
+## 队列
+## 堆
+## 树
+## 哈稀
+## 排序
+## 双指针
+## 迭代
+## 二分查找
+## 二分树
 
 Thanks [kamyu104](https://github.com/kamyu104/LeetCode)
