@@ -49,7 +49,43 @@ LeetCode
 334 |[Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)        |Medium  |[解1](./problems/334.py) [解2](./problems/334-1.py) [解3](./problems/334-2.py)   |           |
 
 ## 字符串
+
+题号|          标题                          |难度    | 代码        |  提示    |
+----|--------------------------------------|--------|-------------|----------|
+6  |[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) |Easy  |[解1](./problems/6.py) [解2](./problems/6-2.py) |      |
+8  |[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) |Easy  |[解1](./problems/8.py)  |          |
+14 |[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)    |Easy  |[解1](./problems/14.py)  |          |
+28  |[Implement strStr()](https://leetcode.com/problems/implement-strstr/)   |Easy    |[解1](./problems/28.py) [解2](./problems/28-1.py)      |          |
+38  |[Count and Say](https://leetcode.com/problems/count-and-say/)           |Easy    |[解1](./problems/38.py)          |          |
+43  |[Multiply Strings](https://leetcode.com/problems/multiply-strings/)     |Medium  |[解1](./problems/43.py) [解2](./problems/43-1.py)   |          |
+58  |[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)    |Easy  |[解1](./problems/58.py)          |          |
+67  |[Add Binary](https://leetcode.com/problems/add-binary/)  |Easy  |[解1](./problems/67.py)          |          |
+125 |[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)  |Easy    |[解1](./problems/125.py)          |          |
+151 |[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)   |Medium  |[解1](./problems/151.py)          |          |
+165 |[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/)|Easy  |[解1](./problems/165.py)          |          |
+242 |[Valid Anagram](https://leetcode.com/problems/valid-anagram/)    |Easy    |[解1](./problems/242.py)          |          |
+273 |[Integer to English Words](https://leetcode.com/problems/integer-to-english-words/)   |Medium    |[解1](./problems/273.py)          |          |
+306 |[Addictive Number](https://leetcode.com/problems/additive-number/)       |Medium  |[解1](./problems/306.py)          |          |
+383 |[Ransom Note](https://leetcode.com/problems/ransom-note/)             |Easy    |[解1](./problems/383.py)          |          |
+
 ## 链表
+
+题号|          标题                          |难度    | 代码        |  提示    |
+----|--------------------------------------|--------|-------------|----------|
+2  |[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) |Medium  |[解1](./problems/2.py) |      |
+21 |[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) |Easy  |[解1](./problems/21.py)  |          |
+24 |[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)    |Medium  |[解1](./problems/24.py)  |          |
+61  |[Rotate List](https://leetcode.com/problems/rotate-list/)   |Medium    |[解1](./problems/61.py)   |          |
+82  |[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)   |Medium    |[解1](./problems/82.py)          |          |
+83  |[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)     |Easy  |[解1](./problems/83.py) |          |
+92  |[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)    |Medium  |[解1](./problems/92.py)          |          |
+160  |[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)  |Easy  |[解1](./problems/160.py)          |          |
+203 |[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)  |Easy    |[解1](./problems/203.py)          |          |
+206 |[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)   |Easy  |[解1](./problems/206.py)          |          |
+234 |[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|Easy  |[解1](./problems/234.py)          |          |
+237 |[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)    |Easy    |[解1](./problems/237.py)          |          |
+328 |[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)   |Easy    |[解1](./problems/328.py)          |          |
+
 ## 栈
 ## 队列
 ## 堆
