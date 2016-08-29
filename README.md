@@ -87,9 +87,44 @@ LeetCode
 328 |[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)   |Easy    |[解1](./problems/328.py)          |          |
 
 ## 栈
+
+题号|          标题                          |难度    | 代码        |  提示    |
+----|--------------------------------------|--------|-------------|----------|
+20  |[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) |Easy  |[解1](./problems/20.py) |      |
+71 |[Simplify Path](https://leetcode.com/problems/simplify-path/) |Medium  |[解1](./problems/71.py)  |          |
+101 |[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)    |Easy  |[解1](./problems/101.py)  |          |
+150  |[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)   |Medium    |[解1](./problems/150.py)   |          |
+155  |[Min Stack](https://leetcode.com/problems/min-stack/)   |Easy    |[解1](./problems/155.py) [解2](./problems/155-1.py)         |          |
+173  |[Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)     |Medium  |[解1](./problems/173.py) |          |
+224  |[Basic Calculator](https://leetcode.com/problems/basic-calculator/)    |Medium  |[解1](./problems/224.py)          |          |
+227  |[Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)  |Medium  |[解1](./problems/227.py)          |          |
+232 |[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)  |Easy    |[解1](./problems/232.py)          |          |
+331 |[Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/)   |Medium  |[解1](./problems/331.py)          |          |
+385 |[Mini Parser](https://leetcode.com/problems/mini-parser/)|Medium  |[解1](./problems/385.py)          |          |
+
 ## 队列
+
 ## 堆
+
+题号|          标题                          |难度    | 代码        |  提示    |
+----|--------------------------------------|--------|-------------|----------|
+264  |[Ugly Number II](https://leetcode.com/problems/ugly-number-ii/) |Medium  |[解1](./problems/264.py) |      |
+313 |[Super Ugly Number](https://leetcode.com/problems/super-ugly-number/) |Medium  |[解1](./problems/313.py)  |          |
+373 |[Find K Pairs with Smallest Sums](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)    |Medium  |[解1](./problems/378.py)  |          |
+378  |[Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/evaluate-reverse-polish-notation/)   |Medium    |[解1](./problems/150.py)   |          |
+
 ## 树
+
+题号|          标题                          |难度    | 代码        |  提示    |
+----|--------------------------------------|--------|-------------|----------|
+94  |[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) |Medium  |[解1](./problems/94.py) [解2](./problems/94-1.py) |      |
+144 |[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) |Medium  |[解1](./problems/144.py) [解1](./problems/144-1.py) |          |
+208 |[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)    |Medium  |[解1](./problems/208.py)  |          |
+211 |[Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/)   |Medium    |[解1](./problems/211.py)   |          |
+226 |[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) |Easy  |[解1](./problems/226.py) |          |
+297 |[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)    |Medium  |[解1](./problems/297.py)  |          |
+307 |[Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/)   |Medium    |[解1](./problems/307.py)   |          |
+
 ## 哈稀
 ## 排序
 ## 双指针
