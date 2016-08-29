@@ -79,6 +79,7 @@ LeetCode
 82  |[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)   |Medium    |[解1](./problems/82.py)          |          |
 83  |[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)     |Easy  |[解1](./problems/83.py) |          |
 92  |[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)    |Medium  |[解1](./problems/92.py)          |          |
+146  |[LRU Cache](https://leetcode.com/problems/lru-cache/)    |Hard  |[解1](./problems/146.py)          |          |
 160  |[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)  |Easy  |[解1](./problems/160.py)          |          |
 203 |[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)  |Easy    |[解1](./problems/203.py)          |          |
 206 |[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)   |Easy  |[解1](./problems/206.py)          |          |
@@ -104,6 +105,10 @@ LeetCode
 
 ## 队列
 
+题号|          标题                          |难度    | 代码        |  提示    |
+----|--------------------------------------|--------|-------------|----------|
+225  |[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) |Medium  |[解1](./problems/225.py) |      |
+
 ## 堆
 
 题号|          标题                          |难度    | 代码        |  提示    |
@@ -126,8 +131,55 @@ LeetCode
 307 |[Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/)   |Medium    |[解1](./problems/307.py)   |          |
 
 ## 哈稀
+
+题号|          标题                          |难度    | 代码        |  提示    |
+----|--------------------------------------|--------|-------------|----------|
+1  |[Two Sum](https://leetcode.com/problems/two-sum/) |Medium  |[解1](./problems/1.py) [解2](./problems/1-1.py) |      |
+3 |[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |Medium  |[解1](./problems/3.py)  |          |
+36 |[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)    |Easy  |[解1](./problems/36.py)  |          |
+49  |[Group Anagrams](https://leetcode.com/problems/anagrams/)   |Medium    |[解1](./problems/49.py)   |          |
+187  |[Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)   |Medium    |[解1](./problems/187.py)          |          |
+202  |[Happy Number](https://leetcode.com/problems/happy-number/)     |Easy  |[解1](./problems/202.py) |          |
+204  |[Count Primes](https://leetcode.com/problems/count-primes/)    |Easy  |[解1](./problems/204.py)          |          |
+205  |[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)  |Easy  |[解1](./problems/205.py)          |          |
+217 |[Contains Duplicate](Contains Duplicate)  |Easy    |[解1](./problems/217.py)          |          |
+219 |[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)   |Easy  |[解1](./problems/219.py)          |          |
+290 |[Word Pattern](https://leetcode.com/problems/word-pattern/)|Easy  |[解1](./problems/290.py)          |          |
+299  |[Bulls and Cow](https://leetcode.com/problems/bulls-and-cow/)    |Easy  |[解1](./problems/299.py)          |          |         |
+
 ## 排序
+
+题号|          标题                          |难度    | 代码        |  提示    |
+----|--------------------------------------|--------|-------------|----------|
+75  |[Sort Colors](https://leetcode.com/problems/sort-colors/) |Medium  |[解1](./problems/75.py) |      |
+88 |[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) |Easy  |[解1](./problems/88.py)  |          |
+147 |[Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)    |Medium  |[解1](./problems/147.py)  |          |
+148  |[Sort List](https://leetcode.com/problems/sort-list/)   |Medium    |[解1](./problems/148.py)   |          |
+179  |[Largest Number](https://leetcode.com/problems/largest-number/)   |Medium    |[解1](./problems/179.py)          |          |
+274  |[H-Index](https://leetcode.com/problems/h-index/)     |Medium  |[解1](./problems/274.py) |          |
+324  |[Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii/)    |Medium  |[解1](./problems/324.py)          |          |
+347  |[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)  |Medium  |[解1](./problems/347.py)          |          |
+
 ## 双指针
+
+题号|          标题                          |难度    | 代码        |  提示    |
+----|--------------------------------------|--------|-------------|----------|
+95  |[Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/) |Medium  |[解1](./problems/95.py) |      |
+98 |[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) |Medium  |[解1](./problems/98.py)  |          |
+100 |[Same Tree](https://leetcode.com/problems/same-tree/)    |Easy  |[解1](./problems/100.py)  |          |
+104  |[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)   |Easy    |[解1](./problems/104.py)   |          |
+105  |[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)   |Medium    |[解1](./problems/105.py)          |          |
+106  |[Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)     |Medium  |[解1](./problems/106.py) |          |
+108  |[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)    |Medium  |[解1](./problems/108.py)          |          |
+109  |[Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)  |Medium  |[解1](./problems/109.py)          |          |
+110 |[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)  |Easy    |[解1](./problems/110.py)          |          |
+111 |[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)   |Easy  |[解1](./problems/111.py)          |          |
+114 |[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)|Medium  |[解1](./problems/114.py)          |          |
+116  |[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)    |Medium  |[解1](./problems/116.py)          |          |         |
+129  |[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)    |Medium  |[解1](./problems/129.py)          |          |         |
+241  |[Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/)    |Medium  |[解1](./problems/241.py)          |          |         |
+337  |[House Robber III](https://leetcode.com/problems/house-robber-iii/)    |Medium  |[解1](./problems/337.py)          |          |         |
+
 ## 迭代
 ## 二分查找
 ## 二分树
