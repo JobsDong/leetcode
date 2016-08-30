@@ -147,7 +147,7 @@ LeetCode
 290 |[Word Pattern](https://leetcode.com/problems/word-pattern/)|Easy  |[解1](./problems/290.py)          |          |
 299  |[Bulls and Cow](https://leetcode.com/problems/bulls-and-cow/)    |Easy  |[解1](./problems/299.py)          |          |         |
 
-## 排序
+## 递归
 
 题号|          标题                          |难度    | 代码        |  提示    |
 ----|--------------------------------------|--------|-------------|----------|
@@ -160,7 +160,7 @@ LeetCode
 324  |[Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii/)    |Medium  |[解1](./problems/324.py)          |          |
 347  |[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)  |Medium  |[解1](./problems/347.py)          |          |
 
-## 双指针
+## 迭代
 
 题号|          标题                          |难度    | 代码        |  提示    |
 ----|--------------------------------------|--------|-------------|----------|
@@ -180,8 +180,48 @@ LeetCode
 241  |[Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/)    |Medium  |[解1](./problems/241.py)          |          |         |
 337  |[House Robber III](https://leetcode.com/problems/house-robber-iii/)    |Medium  |[解1](./problems/337.py)          |          |         |
 
-## 迭代
+## 双指针
+
+题号|          标题                          |难度    | 代码        |  提示    |
+----|--------------------------------------|--------|-------------|----------|
+19  |[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) |Easy  |[解1](./problems/19.py) |      |
+86 |[Partition List](https://leetcode.com/problems/partition-list/) |Medium  |[解1](./problems/86.py)  |          |
+141 |[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)    |Medium  |[解1](./problems/141.py)  |          |
+142  |[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)   |Medium    |[解1](./problems/142.py)   |          |
+143  |[Reorder List](https://leetcode.com/problems/reorder-list/)   |Medium    |[解1](./problems/143.py)          |          |
+283  |[Move Zeroes](https://leetcode.com/problems/move-zeroes/)     |Easy  |[解1](./problems/283.py) [解2](./problems/283-1.py)|          |
+344  |[Reverse String](https://leetcode.com/problems/reverse-string/)    |Easy  |[解1](./problems/344.py)          |          |
+345  |[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)  |Easy  |[解1](./problems/345.py)          |          |
+349 |[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)  |Easy    |[解1](./problems/349.py) [解1](./problems/349-1.py)         |          |
+350 |[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)   |Easy  |[解1](./problems/350.py)          |          |
+
 ## 二分查找
+
+题号|          标题                          |难度    | 代码        |  提示    |
+----|--------------------------------------|--------|-------------|----------|
+33  |[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) |Hard  |[解1](./problems/33.py) |      |
+34 |[Search for a Range](https://leetcode.com/problems/search-for-a-range/) |Medium  |[解1](./problems/34.py)  |          |
+35 |[Search Insert Position](https://leetcode.com/problems/search-insert-position/)    |Medium  |[解1](./problems/35.py)  |          |
+69  |[Sqrt(x)](https://leetcode.com/problems/sqrtx/)   |Medium    |[解1](./problems/69.py)   |          |
+74  |[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)   |Medium    |[解1](./problems/74.py)          |          |
+81  |[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)     |Medium  |[解1](./problems/81.py)          |
+153  |[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)    |Medium  |[解1](./problems/153.py)          |          |
+162  |[Find Peak Element](https://leetcode.com/problems/find-peak-element/)  |Medium  |[解1](./problems/162.py)          |          |
+222 |[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)  |Medium    |[解1](./problems/222.py)         |          |
+275 |[H-Index II](https://leetcode.com/problems/h-index-ii/)   |Medium  |[解1](./problems/275.py)          |          |
+278  |[First Bad Version](https://leetcode.com/problems/first-bad-version/)     |Easy  |[解1](./problems/278.py)          |
+300  |[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)    |Medium  |[解1](./problems/300.py)          |          |
+367  |[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)  |Medium  |[解1](./problems/367.py)          |          |
+374 |[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)  |Easy    |[解1](./problems/374.py)         |          |
+
 ## 二分树
+
+## 分支限界
+
+## 回溯
+
+## 动态规划
+
+## 贪心
 
 Thanks [kamyu104](https://github.com/kamyu104/LeetCode)
