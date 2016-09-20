@@ -216,11 +216,43 @@ LeetCode
 
 ## 二分树
 
+题号|          标题                          |难度    | 代码        |  提示    |
+----|--------------------------------------|--------|-------------|----------|
+220  |[Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/) |Medium  |[解1](./problems/220.py) |      |
+230 |[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) |Medium  |[解1](./problems/230.py) [解2](./problems/230-1.py) |          |
+235 |[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)    |Easy  |[解1](./problems/235.py)  |          |
+
+## 动态规划
+
+题号|          标题                          |难度    | 代码        |  提示    |
+----|--------------------------------------|--------|-------------|----------|
+53  |[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) |Medium  |[解1](./problems/53.py) |      |
+62 |[Unique Paths](https://leetcode.com/problems/unique-paths/) |Medium  |[解1](./problems/62.py)  |          |
+63 |[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)    |Medium  |[解1](./problems/63.py)  |          |
+64  |[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)   |Medium    |[解1](./problems/64.py)   |          |
+70  |[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)   |Easy    |[解1](./problems/70.py)          |          |
+91  |[Decode Ways](https://leetcode.com/problems/decode-ways/)     |Medium  |[解1](./problems/91.py)          |
+96  |[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)    |Medium  |[解1](./problems/96.py)          |          |
+120  |[Triangle](https://leetcode.com/problems/triangle/)  |Medium  |[解1](./problems/120.py)          |          |
+139 |[Word Break](https://leetcode.com/problems/word-break/)  |Medium    |[解1](./problems/139.py)         |          |
+152 |[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)   |Medium  |[解1](./problems/152.py)          |          |
+198  |[House Robber](https://leetcode.com/problems/house-robber/)     |Easy  |[解1](./problems/198.py)          |
+213  |[House Robber II](https://leetcode.com/problems/house-robber-ii/)    |Medium  |[解1](./problems/213.py)          |          |
+221  |[Maximal Square](https://leetcode.com/problems/maximal-square/)  |Medium  |[解1](./problems/221.py)          |          |
+279 |[Perfect Squares](https://leetcode.com/problems/perfect-squares/)  |Medium    |[解1](./problems/279.py)         |          |
+303  |[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)    |Easy  |[解1](./problems/303.py) [解1](./problems/303-1.py)          |          |
+304  |[Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)  |Medium  |[解1](./problems/304.py)          |          |
+309 |[Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)  |Medium    |[解1](./problems/309.py)         |          |
+322 |[Coin Change](https://leetcode.com/problems/coin-change/)   |Medium  |[解1](./problems/322.py)          |          |
+357  |[Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/)     |Medium  |[解1](./problems/357.py)          |
+368  |[Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/)    |Medium  |[解1](./problems/368.py)          |          |
+375  |[Guess Number Higher or Lower II](https://leetcode.com/problems/guess-number-higher-or-lower-ii/)  |Medium  |[解1](./problems/375.py)          |          |
+377 |[Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)  |Medium    |[解1](./problems/377.py)         |          |
+
+
 ## 分支限界
 
 ## 回溯
-
-## 动态规划
 
 ## 贪心
 
