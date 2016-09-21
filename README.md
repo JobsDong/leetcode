@@ -249,11 +249,24 @@ LeetCode
 375  |[Guess Number Higher or Lower II](https://leetcode.com/problems/guess-number-higher-or-lower-ii/)  |Medium  |[解1](./problems/375.py)          |          |
 377 |[Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)  |Medium    |[解1](./problems/377.py)         |          |
 
+## 贪心
+
+题号|          标题                          |难度    | 代码        |  提示    |
+----|--------------------------------------|--------|-------------|----------|
+11  |[Container With Most Water](https://leetcode.com/problems/container-with-most-water/) |Medium  |[解1](./problems/11.py) |      |
+55 |[Jump Game](https://leetcode.com/problems/jump-game/) |Medium  |[解1](./problems/55.py)  |          |
+122 |[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)    |Medium  |[解1](./problems/122.py)  |          |
+134  |[Gas Station](https://leetcode.com/problems/gas-station/)   |Medium    |[解1](./problems/134.py)   |          |
+316  |[Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/)   |Medium    |[解1](./problems/316.py)          |          |
+376  |[Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/)     |Medium  |[解1](./problems/376.py) [解2](./problems/376-1.py)         |
+392  |[Is Subsequence](https://leetcode.com/problems/is-subsequence/)    |Medium  |[解1](./problems/392.py)          |          |
+397  |[Integer Replacement](https://leetcode.com/problems/integer-replacement/)  |Easy  |[解1](./problems/397.py) [解2](./problems/397-1.py)         |          |
+402 |[Remove K Digits](https://leetcode.com/problems/remove-k-digits/)  |Medium    |[解1](./problems/402.py)         |          |
+
 
 ## 分支限界
 
 ## 回溯
 
-## 贪心
 
 Thanks [kamyu104](https://github.com/kamyu104/LeetCode)
